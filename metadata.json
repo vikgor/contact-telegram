@@ -1,0 +1,10 @@
+{
+	"author": "Viktor G.",
+	"email": "",
+	"website": "https://www.viktorgordienko.com",
+	"version":"1.0",
+	"releaseDate": "2019-01-10",
+	"license": "MIT",
+	"compatible": "3.4",
+	"notes": "Plugin based on Contact3 plugin by novafacile OÜ (https://www.novafacile.com)"
+}

@@ -1,0 +1,26 @@
+{
+  "plugin-data":
+  {
+    "name": "Contact Telegram",
+    "description": "Add a contact form to Bludit, it will send a message to your Telegram bot."
+  },  
+  "select-a-content": "Select a content",
+  "static-pages" : "Static pages",
+  "the-list-is-based-only-on-published-content" : "The list is based only on published content. The contact form will be positioned below it.",
+  "contact-name": "Name:",
+  "contact-phone": "Phone:",
+  "contact-email": "E-mail:",
+  "contact-message": "Message:",
+  "contact-reason": "New message from",
+  "send": "Send my message",
+  "thank-you-for-contact": "Thank you for having contacted me. I will reply you as soon as possible.",
+  "an-error-occurred-while-sending": "Oops! An error occurred while sending your message, thank you to try again later.",
+  "bot-token": "Bot Token",
+  "chat-id": "Chat Id",
+  "input-fields": "Input Fields",
+  "input-fields-info": "You can only ask for specific details, like phone number and email.",
+  "input-fields-info-phone": "Type 'Y' to ask for a phone number",
+  "input-fields-info-email": "Type 'Y' to ask for an email address",
+  "how-to-get-bot-token": "To get a bot token text @BotFather",
+  "how-to-get-chat-id": "To find Chat ID text your bot, then go to https://api.telegram.org/botTOKEN/getUpdates and you will get 'id':12345678"
+}

@@ -1,0 +1,22 @@
+{
+  "plugin-data":
+  {
+    "name": "Contact Telegram",
+    "description": "Formulaire de contact pour Bludit, envoyant un message au bot Telegram."
+  },  
+  "select-a-content": "Sélectionnez un contenu",
+  "static-pages" : "Pages statiques",
+  "the-list-is-based-only-on-published-content" : "La liste est basé uniquement sur du contenu publié. Le formulaire de contact se positionnera en dessous de celui-ci.",
+  "contact-name": "Nom:",
+  "contact-phone": "Téléphone:",
+  "contact-email": "E-mail:",
+  "contact-message": "Message:",
+  "contact-reason": "Nouveau post sur",
+  "send": "Envoyer mon message",
+  "thank-you-for-contact": "Merci de m’avoir contacté. Je vous répondrai le plus rapidement possible.",
+  "an-error-occurred-while-sending": "Oops ! Une erreur est survenue pendant l’envoi de votre message, merci de réessayer ultérieurement.",
+  "bot-token": "Bot Token",
+  "chat-id": "Chat Id",
+  "how-to-get-bot-token": "Pour obtenir un T, écrivez @BotFather",
+  "how-to-get-chat-id": "Pour rechercher un ID de conversation, écrivez sur votre bot, puis suivez le lien https://api.telegram.org/botTOKEN/getUpdates, 'id': 12345678"
+}

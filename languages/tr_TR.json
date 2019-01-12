@@ -1,0 +1,22 @@
+{
+  "plugin-data":
+  {
+    "name": "Contact Telegram",
+    "description": "Bludit için iletişim formu, Telegram botuna bir mesaj gönderin."
+  },  
+  "select-a-content": "Bir sayfa seçin",
+  "static-pages" : "Statik sayfalar",
+  "the-list-is-based-only-on-published-content" : "Liste yalnızca yayınlanmış içeriğe dayanmaktadır. İletişim formu bunun altına yerleştirilecektir.",
+  "contact-name": "Ad:",
+  "contact-phone": "Телефон:",
+  "contact-email": "E-mail:",
+  "contact-message": "Mesaj:",
+  "contact-reason": "Tarihinde yeni yayın",
+  "send": "Gönder",
+  "thank-you-for-contact": "Benimle iletişime geçtiğin için teşekkür ederim. Size en kısa zamanda cevap vereceğim.",
+  "an-error-occurred-while-sending": "Oops! Mesajınızı gönderirken bir hata oluştu, daha sonra tekrar deneyin lütfen, teşekkürler.",
+  "bot-token": "Bot Token",
+  "chat-id": "Chat Id",
+  "how-to-get-bot-token": "Bir belirteç almak için @BotFather yazın.",
+  "how-to-get-chat-id": "Sohbet Kimliğini bulmak için botuna tıkla, sonra https://api.telegram.org/botTOKEN/getUpdates adresine git ve 'id': 12345678"
+}

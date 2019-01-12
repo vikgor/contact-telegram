@@ -1,0 +1,26 @@
+{
+  "plugin-data":
+  {
+    "name": "Contact Telegram",
+    "description": "Контактная форма для Bludit, отправляющая сообщение в Телеграм бот."
+  },  
+  "select-a-content": "Выбрать страницу",
+  "static-pages" : "Статические страницы",
+  "the-list-is-based-only-on-published-content" : "Список основывается на опубликованных страницах. Контактная форма будет располагаться внизу страницы.",
+  "contact-name": "Имя:",
+  "contact-phone": "Телефон:",
+  "contact-email": "E-mail:",
+  "contact-message": "Сообщение:",
+  "contact-reason": "Новое сообщение на",
+  "send": "Отправить сообщение",
+  "thank-you-for-contact": "Спасибо за сообщение! Я скоро отвечу!",
+  "an-error-occurred-while-sending": "Упс! Во время отправления произошла ошибка, попробуйте снова.",
+  "bot-token": "Bot Token",
+  "chat-id": "Chat Id",
+  "input-fields": "Ввод данных",
+  "input-fields-info": "Вы можете выбрать, какие данные будет вводить пользователь.",
+  "input-fields-info-phone": "Введите Y чтобы добавить в форме номер телефона",
+  "input-fields-info-email": "Введите Y чтобы добавить в форме email",
+  "how-to-get-bot-token": "Чтобы получить токен напишите @BotFather",
+  "how-to-get-chat-id": "Чтобы найти Chat ID напишите Вашему боту, затем по ссылке https://api.telegram.org/botTOKEN/getUpdates Вы найдёте 'id':12345678"
+}
