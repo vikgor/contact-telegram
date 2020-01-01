@@ -16,7 +16,11 @@
   "thank-you-for-contact": "Benimle iletişime geçtiğin için teşekkür ederim. Size en kısa zamanda cevap vereceğim.",
   "an-error-occurred-while-sending": "Oops! Mesajınızı gönderirken bir hata oluştu, daha sonra tekrar deneyin lütfen, teşekkürler.",
   "bot-token": "Bot Token",
-  "chat-id": "Chat Id",
+  "chat-id": "Sohbet ID",
+  "input-fields": "Giriş Alanları",
+  "input-fields-info": "Yalnızca telefon numarası ve e-posta gibi belirli ayrıntıları isteyebilirsiniz.",
+  "input-fields-info-phone": "Telefon numarası istemek için 'Y' yazın",
+  "input-fields-info-email": "E-posta istemek için 'Y' yazın",
   "how-to-get-bot-token": "Bir belirteç almak için @BotFather yazın.",
   "how-to-get-chat-id": "Sohbet Kimliğini bulmak için botuna tıkla, sonra https://api.telegram.org/botTOKEN/getUpdates adresine git ve 'id': 12345678"
 }
